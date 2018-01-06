@@ -1,1 +1,1 @@
-This is the public repository for "Dance With A Ballerina" for our patrons who support us with $10/month or more. I will be adding documentation on the technical and artistic pipeline for this project here and on the patreon project page for current and future itterations of the project. 
+WebVR experience that allows you to dance with a professional ballerina, and experiment with expanding your sense of self through VR interaction. Techincal blog post: https://www.patreon.com/posts/duet-webvr-sense-14131321
